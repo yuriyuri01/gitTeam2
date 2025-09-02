@@ -24,7 +24,7 @@ function App() {
           </>
         }></Route>
         <Route path="/Cart" element={<Cart />} />
-        <Route path="/Page" element={<Page />} />
+
       </Routes >
     </div>
 
